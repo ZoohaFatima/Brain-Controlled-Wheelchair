@@ -65,11 +65,10 @@ To ensure safety and reliability, a Bluetooth-based manual control system is imp
 ## 📸 Output
 
 ### EEG Headset (Signal Acquisition)
-![Headset](images/headset.jpeg)
+<img src="images/headset.jpg" width="500"/>
 
 ### Mobility System / Robot
-![Robot](images/robot.jpeg)
-
+<img src="images/robot.jpg" width="300"/>
 ---
 
 ## 🚀 Future Scope
