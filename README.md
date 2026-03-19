@@ -63,6 +63,12 @@ To ensure safety and reliability, a Bluetooth-based manual control system is imp
 
 ---
 
+## 🧠 System Architecture
+
+<img src="images/system-diagram.jpeg" width="600"/>
+
+---
+
 ## 📸 Output
 
 ### EEG Headset (Signal Acquisition)
@@ -70,6 +76,13 @@ To ensure safety and reliability, a Bluetooth-based manual control system is imp
 
 ### Mobility System / Robot
 <img src="images/robot.jpeg" width="400"/>
+
+---
+
+## 🎥 Demo Video
+
+[Watch Project Demo](https://youtube.com/your-video-link)
+
 ---
 
 ## 🚀 Future Scope
