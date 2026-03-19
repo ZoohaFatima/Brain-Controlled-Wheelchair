@@ -1,4 +1,5 @@
 # 🧠 Brain-Controlled Mobility System (EEG + ESP32)
+🚀 A real-time EEG-based brain-computer interface system for hands-free mobility control
 
 ## 🎯 Objective
 To design a real-time embedded system that enables mobility control using brain signals for physically disabled individuals.
@@ -65,10 +66,10 @@ To ensure safety and reliability, a Bluetooth-based manual control system is imp
 ## 📸 Output
 
 ### EEG Headset (Signal Acquisition)
-<img src="images/headset.jpg" width="500"/>
+<img src="images/headset.jpeg" width="400"/>
 
 ### Mobility System / Robot
-<img src="images/robot.jpg" width="300"/>
+<img src="images/robot.jpeg" width="400"/>
 ---
 
 ## 🚀 Future Scope
