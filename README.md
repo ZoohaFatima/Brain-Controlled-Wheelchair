@@ -65,7 +65,7 @@ To ensure safety and reliability, a Bluetooth-based manual control system is imp
 
 ## 🧠 System Architecture
 
-<img src="images/system-diagram.jpeg" width="600"/>
+<img src="images/system-diagram.jpeg" width="400"/>
 
 ---
 
